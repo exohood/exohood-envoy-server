@@ -340,8 +340,9 @@ envoy.docs.sphinx-runner==0.0.3 \
     --hash=sha256:6da14a524cb1ede4c3d3f07c3bf2659405e8fe9191af9041979046c54b0ed35f \
     --hash=sha256:b497c0ed9756e91a9b5f6fbd3bef637b3b5b8597af040c9f89d8a7a414dbecec
     # via -r requirements.in
-envoy.github.abstract==0.0.16 \
-    --hash=sha256:badf04104492fb6b37ba2163f2b225132ed04aba680beb218e7c7d918564f8ee
+envoy.github.abstract==0.0.22 \
+    --hash=sha256:2dd65e2f247a4947d0198b295c82716c13162e30c433b7625c27d59eee7bcf78 \
+    --hash=sha256:86de8bbe2ecf9db896ecc4ff30ab48fc44a516d868ab1748cd4ae538facacb10
     # via
     #   envoy.distribution.release
     #   envoy.github.release
